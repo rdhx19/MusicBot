@@ -12,9 +12,9 @@ except (subprocess.SubprocessError, OSError, ValueError) as e:
     VERSION = "version_unknown"
 
 # constant string exempt from i18n
-DEFAULT_FOOTER_TEXT: str = f"Just-Some-Bots/MusicBot ({VERSION})"
+DEFAULT_FOOTER_TEXT: str = f"Bot MUSIKIN RF'ormatics"
 DEFAULT_BOT_NAME: str = "MusicBot"
-DEFAULT_BOT_ICON: str = "https://i.imgur.com/gFHBoZA.png"
+DEFAULT_BOT_ICON: str = "https://imgur.com/a/JXOzDYf"
 DEFAULT_OWNER_GROUP_NAME: str = "Owner (auto)"
 DEFAULT_PERMS_GROUP_NAME: str = "Default"
 
